@@ -11,3 +11,4 @@ This set of videos, from the 2017 Global Game Jam provides a great introduction 
 
 If you are doing a project "from scratch" you may select _any_ Unity articles or tutorials that are relevant to your project.
 
+If you need to refer to the daily reflection questions, you can find them [here](https://gitpitch.com/CS-Templates/Notebook-Reflection).

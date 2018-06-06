@@ -8,3 +8,6 @@ This set of videos, from the 2017 Global Game Jam provides a great introduction 
 * [Global Game Jam: Unity Playground - Using Tilemap (6:19)](https://www.youtube.com/watch?v=Gj3BZLyGPkk)
 * [Global Game Jam: Unity Playground - Dialog, Inventory, Quests (7:50)](https://www.youtube.com/watch?v=wXE1pRX6txI)
 * [Global Game Jam: Unity Playground - Triggering Dialogs (8:38)](https://www.youtube.com/watch?v=HZ1_q8LEWLM)
+
+If you are doing a project "from scratch" you may select _any_ Unity articles or tutorials that are relevant to your project.
+

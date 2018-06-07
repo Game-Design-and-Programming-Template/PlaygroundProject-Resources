@@ -2,7 +2,7 @@
 
 This set of videos, from the [2017 Global Game Jam][ggj-2017] provides a great introduction to what you can do with the Playground Project toolkit. The presenter is the developer of the Playground project. Watch _at least_ two of the videos **and take notes.** Look for ideas that you can use in your games and to see how a developer works.
 
-[ggj-2017]: <>
+[ggj-2017]: <https://globalgamejam.org/2017/games>
 
 * [Global Game Jam: Unity Playground - Introduction (6:03)](https://www.youtube.com/watch?v=2g7lp4DXqbM)
 * [Global Game Jam: Unity Playground - Playground Basics (10:26)](https://www.youtube.com/watch?v=nHPjWO733ig)

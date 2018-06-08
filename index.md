@@ -14,5 +14,3 @@ This set of videos, from the [2017 Global Game Jam][ggj-2017] provides a great i
 If you are doing a project "from scratch" you may select _any_ videos, articles, or tutorials that are relevant to your project. Please be sure to cite them in your notes – or better yet practice your Markdown skills and include your citations in your online documentation.
 
 If you need to refer to the daily reflection questions, you can find them [here](https://gitpitch.com/CS-Templates/Notebook-Reflection).
-
-
